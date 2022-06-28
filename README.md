@@ -4,5 +4,4 @@
 - My skillset includes REACT, JavaScript, HTML, CSS, BootStrap, Express, Node.js, Mongo DB, PHP, SQL, LESS, SASS, and Git;
 - Apart from coding I like to write blogs or you can say a developer is trying to become a blogger;
 - Currently looking for a job as a Front-End developer or MERN Stack developer;
-- You can find my portfolio: https://chandanimourya.netlify.app/
-- Linkedin : https://www.linkedin.com/in/chandani-mourya-8069a1198/ 
+- You can find my portfolio: https://chandanimourya.netlify.app/links/
