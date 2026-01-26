@@ -1,7 +1,7 @@
 ## Hi everyone! 👋 I'm Chandani Mourya  
 ### 🚀 Software Engineer | Frontend & Backend Developer | Tech Enthusiast  
 
-I’m a passionate **Software Engineer** with over **2.8 years** of experience, primarily working on **Angular, Node.js** to build scalable and user-friendly applications. I specialize in crafting interactive UI's and building robust SaaS solutions.  
+I’m a passionate **Software Engineer** with over **3+ years** of experience, primarily working on **Angular, Node.js** to build scalable and user-friendly applications. I specialize in crafting interactive UI's and building robust SaaS solutions.  
 
 ---
 
