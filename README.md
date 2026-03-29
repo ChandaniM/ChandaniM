@@ -66,5 +66,5 @@ I'm currently looking for exciting **Frontend / Full-Stack Developer** roles! Le
 
 ### 📫 Connect with Me  
 - 🌐 **Portfolio**: [chandanimourya.netlify.app](https://chandanimourya.netlify.app/)  
-- 📧 **Email**: chandanimourya5@gmail.com  
+- 📧 **Email**: chandani.mourya.dev@gmail.com
 
