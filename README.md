@@ -1,18 +1,18 @@
 ## Hi everyone! 👋 I'm Chandani Mourya  
 ### 🚀 Software Engineer | Frontend & Backend Developer | Tech Enthusiast  
 
-I’m a passionate **Software Engineer** with over **3+ years** of experience, primarily working on **Angular, Node.js** to build scalable and user-friendly applications. I specialize in crafting interactive UI's and building robust SaaS solutions.  
+I’m a passionate **Software Engineer** with over **4 years** of experience, primarily working on **Angular, Node.js** to build scalable and user-friendly applications. I specialize in crafting interactive UI's and building robust SaaS solutions.  
 
 ---
 
 ### 🔥 Tech Stack & Skills  
-- **Frontend**: Angular, SCSS, LESS, CSS, Bootstrap  
+- **Frontend**: Angular, React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS,
+Tailwind CSS, Material UI (MUI), Bootstrap, Ionic,NgRx, RxJS.
 - **Backend**: Node.js, Express.js  
-- **Database**: MySQL, PostgreSQL, MongoDB  
-- **Cloud**: Firebase  
-- **No-Code**: FlutterFlow  
-- **Tools**: Docker, Git, pgAdmin
-
+- **Database**: MongoDB, PostgreSQL, MySQL, Supabase, AWS S3, Cloudinary
+- CI/CD, DevOps & Tooling: GitHub Actions, Docker, Vite, Webpack, Jest, Jasmine, React Testing Library, Grafana 
+- **No-Code**: FlutterFlow
+- Enterprise Platforms & BaaS: M-Files, Odoo, Firebase, GupShup
 ---
 
 ### 🏆 Professional Experience  
